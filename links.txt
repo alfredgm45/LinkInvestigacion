@@ -1,0 +1,10 @@
+http://www.tribulinux.com/como-separar-y-unir-archivos-pdf-en-ubuntu-con-pdftk.html
+https://stackoverflow.com/questions/4210879/reload-chart-data-via-json-with-highcharts
+https://gist.github.com/fedir/48caf91c02197ecb68c22a70555f6f0e
+http://www.tutorialesubuntu.com/2013/04/07/liberar-memoria-ram-en-linux-desde-la-terminal/
+https://nksistemas.com/usar-alias-en-linux-debian-y-crear-comandos-personalizados/
+https://www.genbetadev.com/python/multiprocesamiento-en-python-threads-a-fondo-introduccion
+
+
+
+
