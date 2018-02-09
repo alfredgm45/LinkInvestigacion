@@ -6,10 +6,16 @@ https://nksistemas.com/usar-alias-en-linux-debian-y-crear-comandos-personalizado
 https://www.genbetadev.com/python/multiprocesamiento-en-python-threads-a-fondo-introduccion
 https://gist.github.com/fedir/48caf91c02197ecb68c22a70555f6f0e
 
-
+######################################################################################################
+# Grafica hight charts
+https://stackoverflow.com/questions/15277405/highchart-show-hide-an-y-axis-without-hiding-the-series
+######################################################################################################
 ######################################################################################################
 #link minado de bitcoin
 https://dinerobits.com/freebitcoin/#Aspectos_basicos_y_caracteristicas_principales
+https://dinerobits.com/bitcoin-core-monedero-oficial/
+https://ctgis.wordpress.com/zona-de-descargas/
+https://api.highcharts.com/highcharts/plotOptions.column.events.hide
 
 
 ######################################################################################################
