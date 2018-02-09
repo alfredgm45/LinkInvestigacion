@@ -7,4 +7,9 @@ https://www.genbetadev.com/python/multiprocesamiento-en-python-threads-a-fondo-i
 https://gist.github.com/fedir/48caf91c02197ecb68c22a70555f6f0e
 
 
+######################################################################################################
+#link minado de bitcoin
+https://dinerobits.com/freebitcoin/#Aspectos_basicos_y_caracteristicas_principales
 
+
+######################################################################################################
