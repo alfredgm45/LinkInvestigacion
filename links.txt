@@ -6,6 +6,7 @@ https://nksistemas.com/usar-alias-en-linux-debian-y-crear-comandos-personalizado
 https://www.genbetadev.com/python/multiprocesamiento-en-python-threads-a-fondo-introduccion
 https://gist.github.com/fedir/48caf91c02197ecb68c22a70555f6f0e
 http://php.net/manual/es/features.file-upload.post-method.php ## subidad de archivos
+https://desarrolloweb.com/articulos/jquery-ui-datepicker.html
 
 ######################################################################################################
 # Grafica hight charts
