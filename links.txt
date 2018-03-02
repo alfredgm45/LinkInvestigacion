@@ -23,3 +23,8 @@ https://api.highcharts.com/highcharts/plotOptions.column.events.hide
 #links de librerias de javascript para generar archivos PDF y CSV
 https://github.com/MrRio/jsPDF
 https://github.com/evanplaice/jquery-csv
+
+########################################################################################################
+$Links sobre git
+https://www.genbetadev.com/herramientas/manejo-de-ramas-de-desarrollo-con-git
+https://git-scm.com/book/es/v2/Git-en-entornos-distribuidos-Manteniendo-un-proyecto#_preparing_release
